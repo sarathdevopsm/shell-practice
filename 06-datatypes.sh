@@ -3,7 +3,7 @@
 NUMBER1=100
 number2=200
 
-TIMESTAMP=$(time)
+TIMESTAMP=$(date)
 echo "script executed at: $TIMESTAMP"
 
 #sum=number1+number2
