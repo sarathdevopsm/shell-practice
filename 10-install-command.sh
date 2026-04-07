@@ -8,3 +8,5 @@ then
 else
    echo "You can proceed"
 fi
+
+dnf install mysql -y
