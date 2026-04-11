@@ -7,9 +7,9 @@ NUMBER=$1
 #eq --> equal
 #ne --> not equal
 
-if [ $NUMBER -lt 100 ]
+if [ $NUMBER -eq 100 ]
 then 
-   echo "Given number $NUMBER is less than 100"
+   echo "Given number $NUMBER is equal than 100"
 else
-   echo "Given number $NUMBER is not less than 100"
+   echo "Given number $NUMBER is not equal than 100"
 fi
