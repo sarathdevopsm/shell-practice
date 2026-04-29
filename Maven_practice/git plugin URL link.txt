@@ -1,0 +1,2 @@
+https://updates.jenkins.io/download/plugins/git/
+
